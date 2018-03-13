@@ -1,0 +1,16 @@
+<launch>
+<!-- TODO: complete launch file! -->
+<! -- topic_name = rospy.get_param('topic_name')
+            save_name = rospy.get_param('save_name')
+            image_format = rospy.get_param('format')
+            if os.path.exists(rospy.get_param('save_dir'):
+                save_dir = rospy.get_param('save_dir')
+            else:
+                sys.exit("The save directory does not exists")
+            if os.path.exists(rospy.get_param('bagfile'):
+                bagfile = rospy.get_param('bagfile')
+            else:
+                sys.exit("Bagfile does not exists")
+-->
+</launch>
+
